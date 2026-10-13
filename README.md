@@ -2,7 +2,7 @@
 
 Projekt symulowanej linii technologicznej wykonany w Factory I/O.
 
-Projekt jest obecnie w trakcie realizacji. Układ obejmuje transport elementów za pomocą przenośników, ich sortowanie na podstawie koloru oraz przekazywanie do kolejnych stanowisk procesu.
+Projekt jest obecnie w trakcie realizacji. Układ obejmuje transport elementów za pomocą przenośników, ich sortowanie na podstawie koloru oraz przekazywanie do kolejnych stanowisk procesu. Drugą częscią projektu będzie program sterujący w Tia Portal.
 
 W projekcie wykorzystano m.in.:
 - przenośniki taśmowe i rolkowe,
@@ -11,10 +11,10 @@ W projekcie wykorzystano m.in.:
 - stanowisko z robotem przemysłowym,
 - magazyn automatyczny.
 
-## Widok linii technologicznej
+## Sekcja sortowania
 ![Widok linii](1.jpg)
 
-## Sekcja sortowania
+## Manipulator z obróbką CNC
 ![Sortowanie elementów](2.jpg)
 
 ## Stanowisko z robotem
